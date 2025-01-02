@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'iDroid';
+    src: url(fontes/idroid.otf) format('truetype');
+}
+
+body {
+    background-color: rgb(95, 179, 0);
+    
+}
+
+header {
+    
+    text-align: center;
+    background-color: green;
+        
+    
+
+}
+#subtitulo {
+    font-family: 'iDroid', sans-serif;
+}
+
+
+main { background-color: white;
+    
+    
+    
+}
+footer{
+    background-color: rgb(21, 255, 0);
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+ }
+footer > p {
+    margin: 0px;
+ } 
